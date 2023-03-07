@@ -28,6 +28,8 @@ On the subject page, I hit `Cmd + L` to create a new lecture note called `2. Col
 
 As the lecturer continues, I can add more information to my lecture note under another H1 header, such as "Properties." This ensures only the definition note is displayed in the final result.
 
+The final result is [here](https://www.reddit.com/r/ObsidianMD/comments/11l0wko/uni_notetaking_process_ft_templater_and_dataview/?utm_source=share&utm_medium=web2x&context=3)
+
 
 # Disclaimer
 
