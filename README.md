@@ -27,3 +27,8 @@ For background, I'm a 3rd year actuarial student so most of my notes are heavily
 On the subject page, I hit `Cmd + L` to create a new lecture note called `2. Collective Risk Modelling`, with metadata autofilled. Let's say the lecturer begins by talking about the Compound Poisson Model. I press `Cmd + D` to create a new definition note with metadata, which is embedded into my lecture note via `![[Collective Risk Model#Definition]]`. Inside the definition note, I write the formula and variable definitions.
 
 As the lecturer continues, I can add more information to my lecture note under another H1 header, such as "Properties." This ensures only the definition note is displayed in the final result.
+
+
+# Disclaimer
+
+I'm not really the coding type so I'm sure anyone who codes in js will die inside looking at what I've written
