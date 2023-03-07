@@ -5,13 +5,10 @@ subject: <% tp.file.title %>
 field:
 period:
 ---
+
 # Lecture Notes
 
-```dataview
-TABLE 
-WHERE subject = "<% tp.file.title %>" and type = "lecture"
-SORT date DESC
-```
+
 
 # To-Do's
 
