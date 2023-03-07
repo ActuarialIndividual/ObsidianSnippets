@@ -11,7 +11,7 @@ Different snippets and templates using templater for note-taking
 ## Guide
 
 1. Copy the ztemplates folder into the vault. 
-2. Configure the shortcuts for the snippets via the templater plugin if you would like. 
+2. Configure the shortcuts for the **snippets (not template)** via the templater plugin if you would like.
 3. That is all
 
 
