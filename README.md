@@ -12,7 +12,7 @@ Different snippets and templates using templater for note-taking
 
 1. Copy the ztemplates folder into the vault. 
 2. Configure the shortcuts for the **snippets (not template)** via the templater plugin if you would like.
-3. That is all
+3. (Optional): Add the CSS files into the snippets folder for clean embeds (which ignore H1) and left align for math equations
 
 
 ## Example Run-through
